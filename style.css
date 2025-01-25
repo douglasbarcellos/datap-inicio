@@ -5,7 +5,7 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-color: #121212; /* Background to contrast the logo */
+    background-color:rgb(255, 255, 255); /* Background to contrast the logo */
   }
 
   .logo-container {
@@ -50,5 +50,5 @@ body {
   }
 
   .access-button:hover {
-    background-color: #555555;
+    background-color: #747474;
   }
